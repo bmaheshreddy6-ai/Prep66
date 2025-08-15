@@ -1,0 +1,111 @@
+1) IAM -  Identity access Management 
+
+Enable to diffferent level of access 
+
+Multifactor authentication - Two athentication menthod 
+
+Groups, roles and User s
+
+
+2) EC2 - Elastic compute cloud - resize compute capacity in the cloud 
+Difference instance 
+
+D for density - Fileservers/Data Warehousing/Hadoop 
+R for RAM 
+M - Main choice for general purpose apps - Application servers 
+C for compute - CPU intensive app 
+G - Graphics  - D3 application streaming 
+I for IoPS  -NOSQL, datawarehousing 
+F for FPGA  - Real time video processing, big data 
+T Cheap general purpose  - Web server and small database 
+P- Graphics  - machine learning 
+X- Extreme Memory  - SAP HANA 
+
+H- Map reduce , HDFS 
+
+
+
+3) EBS- Elastic block stogare - virtual disk 
+
+   speed access 
+  General Pupose SSD 
+   Provisioned IOPS SSD - Larger database 
+
+4) Elastic block stogare volume types 
+  
+ Throughput optimized HDD 
+ big data 
+ datawarehouse 
+Log processsing 
+ cannot be boot volume 
+
+Magnetic (legacy 
+
+
+5) ROute 53 - buy a domin name 
+
+Allows you to map your domain names to 
+
+EC2 Instances 
+Load Balancers 
+S3 Buckets 
+
+
+6) S3 - 101 
+
+Simple storage 
+highly scalable 
+object based stroage 
+
+stored in buckets 
+
+
+HTTP 200 loaded succesfully 
+
+
+7) servaerless 
+
+8) Lambda - is acompute service where you can upload your code and create a lamda function 
+
+
+9) API gate way - Appliction programing interface 
+
+user -> website --> API calls -> process and fetcht he data (Lamda,EC2, S3) --> send back to API --> send to User browseer 
+
+10) Dynamo DB - Flexible NOSQL database 
+
+Eventually consitent - Best read performance 
+
+Strongly consistent - All writes that received a successful response prior to the read 
+
+
+11) KMS - Key management services - Encryption keys 
+
+12) SQS - Simple queeue service - Web service that gives you access to a message queue 
+
+user - uplaod websie--> lamda send the data to SQS --> Ec2 to poll to process it --> store in S3
+
+13)  SQS pull base system 
+
+
+14)  SES - simple email service - sending the email and receiving the emails 
+
+automatic emails 
+
+
+15) SNS  - SMS, HTTPS and SQS  - push notification 
+
+can trigger lamda function 
+
+16) Elastic beanstalk -  deployment s- alll at once, rolling , rolling with additional batch , 
+
+
+17) RDS - Relational database 
+
+18) Kinesis - makes it easy to load and analyze steaming data 
+
+
+
+
+
+

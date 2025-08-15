@@ -1,0 +1,60 @@
+
+AWS KMS
+https://youtu.be/f3APF1dP8w0?si=bA3xkUNAHUNdiTdr
+
+
+AWS Glue    =  Azure data factory 
+S3 - Blob storage 
+https://www.youtube.com/live/hG-wgtKJ9Es?si=l0zuNPQMsT2ChtQc  - Full azure course 
+https://youtu.be/KTJujR5Lods?si=4d1qwdQwAQK_ESET - azre data factory 
+
+Networking 
+----------
+Virtual network 
+Load balancers 
+Application Gateway  -- That enables you to manage the traffic to your web application 
+DNS Zone - Contains the DNS records for a domain name, manage the DNS records for domain 
+in azure 
+CDN profile - Content delivery network - deliverying high bandwith content 
+
+Stotage 
+--------
+Blod  - Storing of unstructured object data
+File storage 
+Tables
+queues 
+Data lake Storage 
+data box 
+
+Database + Analytics 
+--------------------
+SQL server 
+CosmosDB  -- Global distribution, master replication, elastic scaling 
+Data factory --ETL 
+Event hubs - SOurce data push to Event hubs  
+Data lake analytics - Big data, distributed data 
+
+AI+ machine learning 
+--------------------
+Cognitive services --> APIs, SDKs and services avaiable to help developer 
+build intelligent appliation without having direct AI or data science 
+skills 
+
+Bot servics - chatbot 
+
+machine learining 
+
+Azure management 
+
+Log analytics - Collected the log and minitor in a log analytics
+Cost management Billing 
+Automation account 
+Metrics 
+
+
+
+
+
+
+
+
