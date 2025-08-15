@@ -1,0 +1,81 @@
+https://youtu.be/Z3SYDTMP3ME
+
+Region --> Independent Geographic area '
+Availability zone --> Multiple isolated locations data centers within a region 
+
+load balancer - Evenly distributed the load
+	
+Horizantly scaling 
+
+DNS name to access the website 
+
+No SQL database like MongoDB or Cassandra
+DB cache - Database cache engines like redis or a memcached 
+
+Content Delivery Network 
+
+Private network --> Virtual private cloud 
+
+EC2(Elastic Compute Cloud ) & EBS (Elastic block storage) - VM deploy for the application server 
+RDS for Relational database 
+Dynamo DB for no SQL database, No SQL database for unstructure data  
+
+DB cache for elasticache 
+ELB for Elastic load balancer, it can distribute the traffic 
+
+DNS service for Route 53
+
+External storage - S3 
+
+rekognition - content filter 
+Lambda - Video/ content converter 
+
+Lamda is server less function, we can write a code and convert the data in the required format 
+
+kiness - click steam data, get the current trend of data 
+
+EMR --> Spark/Hadoop --> aggregation, sorting, distributed, spark jobs, manage hadoop cluster 
+
+GLUE --> ETL services for DynamoDB 
+
+Redshift for datawarehouse - we can perform the analysis on the data 
+
+Quicksight or Athena for BI tools 
+
+CLoud Front/Edge location - cashe data to nearest edge location 
+ 
+SNS - Simple notification servercies - SMS  to Mobile  
+SES - Simple email services - Email services 
+
+SQS - Simple queue services - message queue services/chating services 
+
+CloudWatch - monitoring all the services 
+
+API Gateway  --> TO integrate with these applications 
+
+Cognit services use for  Web and mobile User management 
+
+IAM - identity access management 
+KMS - Key management services, we can encript the data 
+
+ACM --Amazon certificate manager, deployed in ELB and Cloud Front  
+
+WAF - Web application file wall 
+
+AWS Inspector --> protect from vulnerabilities 
+
+Cloudformation --> it takes tempalte from JSON and YAML format and it will just create this 
+
+Code commit services -->  check in the code 
+Code build fo
+ 
+
+
+application programming interface data extract
+
+https://youtu.be/qbLc5a9jdXo
+
+•	Data Architect 
+
+
+

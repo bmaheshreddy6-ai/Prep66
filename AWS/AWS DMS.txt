@@ -1,0 +1,6 @@
+DMS 
+1) You use the AWS Schema conversion tool (AWS SCT) to extract the data locally and move it to an edge device 
+2) The device automatically loads its data into an Amazon S3 bucket 
+3) AWS DMS takes the files and migrates the data to the targer data store. If you are using change data capture (CDC), those updated are 
+written to the amazon S3 bucket and then applied to the target data store 
+

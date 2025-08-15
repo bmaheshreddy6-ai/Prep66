@@ -1,0 +1,43 @@
+cofax 
+Cavas martin 
+
+
+
+Rapid capacity 
+on demand self service 
+Metered biling service 
+Broad network access
+Resouce pooling  
+
+
+Infrastrucre as a services 
+platfrom as services 
+software as a service 
+function as a service (Severless service)
+
+public cloud 
+Private cloud 
+comnity cloud 
+hybrid cloud 
+Hypervisor 
+Container 
+
+Migration strategies 
+
+Re-host 
+Re-Platform 
+Re-Factor 
+Re-Architect
+Cloud security 
+
+Shared responsibility 
+Security of Cloud  -take care of Cloud 
+Security in cloud - customer 
+Multi cloud 
+Poly cloud - install appliction in differnt clouds 
+
+
+
+
+
+

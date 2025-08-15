@@ -1,0 +1,61 @@
+https://youtu.be/bSbyDXHVOEc?si=uR0t3hA18L9cdbha - KMS, nice 
+
+https://youtu.be/bSbyDXHVOEc?si=AxRgvDrdmMjJh4oW
+
+
+
+KMS 
+
+Convert plain text to Cipher Text 
+Ciper Text to Plain Text 
+
+Server side -   End location should encripted 
+Cient side - Encripat in the laptop and upload to 
+
+Symmetric  - Encryption and decryption uses same key 
+
+Asymmetric  - Encryption uses public key and Decryption 
+              uses private key 
+
+Envelop encryption
+------------------
+KMS CMK --Cutomer managed KEy creates two keys 
+1) Plain Text dek, 2)Encrypted dek which are part of Data Encryption keys (DEK)
+
+2)Plain text key will be used to encrypt the 
+plain text file using encription algorithm
+
+3) Encryption dek used to combine or appedn with Encrypted file and stored in in S3 at rest 
+
+4) delete the plain text key 
+
+Decryption 
+-----
+KMS will geeerete the plain text key from the KMS and decript the data
+
+
+Symmetric (AES -256)
+--------------------
+Single key for Encryption and Decryption 
+Larger than 4 Mb then use the envelop encryption 
+
+Asymmetric (RSA & ECC) 
+---------------------
+
+Pulic key for encryption 
+Private key for Decryption 
+it is used outside of ASW 
+ 
+KMS key service types 
+
+AWS manged keys 
+Customer Managed keys (CMK) 
+
+
+
+
+
+ 
+ 
+
+ 

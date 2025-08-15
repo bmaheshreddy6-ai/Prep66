@@ -1,0 +1,68 @@
+Burstable instance good for more CPU utilization  
+EBS optimised - high input and ouput proces, storage optimise  
+EBS- Elastic block stogare - virtual disk 
+cluster instance - Search Engine and browsing  
+Analysis of data - Burstabke 
+email service - EBS optimisaed 
+Confidenceitla - dedicated 
+
+Website/Email - File System(S3 file upload to S3) - AWS Lambda (backgorund task executio') 
+SES - For sending the emails and invoking lamda function 
+SQS - queeue the massages 
+rotue53 - Reply email and recieved the emails send to SES 
+
+SQS - Simple queeue service - Web service that gives you access to a message queue 
+SES - simple email service - sending the email and receiving the emails 
+
+
+Elastic beanstalk - deploying and scaling web applications, automatically added load balance 
+provide multiple environments 
+
+S3 buckets - storage the data 
+S3 Glacier - we can store not urgent - DOB 
+Stroge gateway - backup the database 
+AWS Cloud Edge location - data move to edge location and then move S3, so that it is faster
+Network services 
+
+VPC  - VPN connection, Security
+Direct connect - Replacement for internet, direct connection to AWS 
+Route 53 - domain name --> URL - -> Route 53 --> Computer 
+
+cloud Front - request sent to Edge location and then transfer to Original server 
+Edge location cashing most popular request, it can deliver immediately 
+
+Cloud watch - to use identify the ideal time, if servers not used, we can should
+ down 
+
+Load Balncer - Auto scaling the resources, scaling up and down 
+
+Cloud security 
+Public 
+Private 
+Hybrid 
+IAM identity acces management 
+Users
+Groups 
+Roles 
+Policies 
+
+Amaon Redshift --> in the console, we will find create cluster option 
+if you click Amaon Redshift, it will ask few details like number of nodes, CPU, cluster trype, Storage,usr and id 
+
+Lanch the cluster after entiring the details 
+   
+Codepipeline --> continuuous delivary service can use to model,visualize and automate the steps
+
+
+Amazon Redshift is a fully-managed petabyte-scale cloud based data warehouse product designed for large scale data set storage and analysis. 
+It is also used to perform large scale database migrations.
+
+Redshift’s column-oriented database is designed to connect to SQL-based clients and business intelligence tools, 
+
+making data available to users in real time. Based on PostgreSQL 8, Redshift delivers fast performance and efficient querying that help teams make sound 
+business analyses and decisions. 
+
+ 
+Please share the status of Testing.Kindly share the test evidence once testing completed.
+
+  	  	
